@@ -1,0 +1,19 @@
+.h1 {
+    text-align: center;
+}
+
+.input {
+    display: block;
+    width: 30%;
+    padding: 20px 1px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid #c9c6c6;
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.btn {
+    align: center;
+}

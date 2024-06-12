@@ -1,0 +1,144 @@
+.rightpic {
+    float: right; 
+    margin: 0 0 5px 5px; 
+   }
+
+   .ribbon {
+    position: relative;
+    top: -16px;
+    right: -706px;
+ }
+
+ .page {
+    width: 1024px;
+    position: absolute;
+    left: 50%;
+    margin-left: -512px;
+}
+
+.flex-center { 
+    display: flex; 
+    align-items: center;
+  }
+   
+  .container{	
+    width: 1500px;
+    font-size: 15px;
+    margin: 7px ;
+    padding: 5px 30px;
+    background-color: rgb(119, 127, 238);
+    border: 4px solid rgb(119, 127, 238);
+}
+.container1{	
+  width: 1500px;
+  font-size: 15px;
+  margin: 0px ;
+  padding: 5px 30px;
+  background-color:rgba(116, 94, 242, 0.986)
+}
+
+.distance{
+    word-spacing: 300px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .form {
+    max-width: 500px;
+    padding: 0px;
+    margin: 10px;
+    background-color: #fff;
+  }
+  
+  .input {
+    display: block;
+    width: 150%;
+    padding: 30px 9px;
+    margin-bottom: 20px;
+    
+    border: 3px solid #c9c6c6;
+    
+    font-family: inherit;
+    font-size: 15px;
+  }
+  
+  .btn {
+    display: block;
+    width: 150%;
+    padding: 8px 12px;
+    
+    border: 0;
+    background-color: rgb(119, 127, 238); 
+    cursor: pointer;
+    
+    font-family: inherit;
+    font-size: 20px;
+    color: #fff;
+  }
+
+  h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:#fff
+}
+  
+
+h2 {
+  margin-left: 7px;
+}
+
+.menu {
+	width: 100%;
+	display: table;
+}
+.menu ul {
+	display: table-row;
+}
+.menu li {
+	display: table-cell;
+	background: #b3aff3;
+}
+.menu ul li:hover, .menu a:hover {
+	background: #6c9ae9;
+}
+.menu li a {
+	display: block;
+	padding: 9px 149.4px;
+	color: #2269eb;
+	text-align: center;
+}
+
+img {
+  width: 8%; 
+  height:auto; 
+  object-fit: contain; 
+  float: left;
+  left: 1230px;
+  margin-left: -20px;
+  margin-top: 1px;
+
+}
+
+h3 {
+  top: 20px;
+  right: -120px;
+  position: absolute;
+  margin-right: 290px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  color:#fff
+
+}
+
+h4 {
+  text-align: right;
+ margin-right: 200px;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 27px;
+ color:#fff
+}
+
+
+
+

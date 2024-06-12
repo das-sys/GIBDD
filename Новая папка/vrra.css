@@ -1,0 +1,40 @@
+.container1{	
+    width: 1388px;
+    font-size: 15px;
+    margin: 0px ;
+    padding: 7px 40px;
+    background-color:rgb(201, 205, 255)
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:#3672f3
+  }
+
+  .menu {
+	width: 100%;
+	display: table;
+}
+.menu ul {
+	display: table-row;
+}
+.menu li {
+	display: table-cell;
+	background: #b3aff3;
+}
+.menu ul li:hover, .menu a:hover {
+	background: #6f9cea;
+}
+.menu li a {
+	display: block;
+	padding: 9px 143px;
+	color: #2269eb;
+	text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+}
